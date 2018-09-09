@@ -1,5 +1,8 @@
 # Kubernetes Tools
 
+## Debugging
+- [Telepresence](https://www.telepresence.io/)
+
 ## Security
 
 - [Kubesec](https://kubesec.io/)
