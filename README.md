@@ -1,7 +1,7 @@
 # Kubernetes Tools
 
 ## Debugging
-- [Telepresence](https://www.telepresence.io/)
+- [Telepresence](https://www.telepresence.io/) : Local development against a remote Kubernetes
 
 ## Security
 
