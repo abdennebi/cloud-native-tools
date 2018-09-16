@@ -15,3 +15,4 @@
 - [Kube-hunter](https://github.com/aquasecurity/kube-hunter): Hunt for security weaknesses in Kubernetes clusters
 - [Kube-bench](https://github.com/aquasecurity/kube-bench): The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices
 - [Kube-lego](https://github.com/jetstack/kube-lego): Automatically request certificates for Kubernetes Ingress resources from Let's Encrypt
+- [Cert-manager](https://github.com/jetstack/cert-manager/): Automatically provision and manage TLS certificates in Kubernetes
