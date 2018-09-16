@@ -5,6 +5,9 @@
 - [Kube-ps1](https://github.com/jonmosco/kube-ps1): Kubernetes prompt info for bash and zsh
 - [Skaffold](https://github.com/GoogleContainerTools/skaffold): Easy and Repeatable Kubernetes Development
 
+## Ingress Controller
+- [Contour](https://github.com/heptio/contour): Contour is a Kubernetes ingress controller for Lyft's Envoy proxy.
+
 ## Debugging
 - [Telepresence](https://www.telepresence.io/): Local development against a remote Kubernetes
 - [Stern](https://github.com/wercker/stern): Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod. Each result is color coded for quicker debugging.
