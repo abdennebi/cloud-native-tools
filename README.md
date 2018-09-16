@@ -2,6 +2,7 @@
 
 ## Developer Tools
 - [Kubectx](https://github.com/ahmetb/kubectx): Fast way to switch between clusters and namespaces in kubectl 
+- [Kube-ps1](https://github.com/jonmosco/kube-ps1): Kubernetes prompt info for bash and zsh
 
 ## Debugging
 - [Telepresence](https://www.telepresence.io/): Local development against a remote Kubernetes
