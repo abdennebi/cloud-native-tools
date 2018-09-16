@@ -1,5 +1,8 @@
 # Kubernetes Tools
 
+## Developer Tools
+- [Kubectx](https://github.com/ahmetb/kubectx): Fast way to switch between clusters and namespaces in kubectl 
+
 ## Debugging
 - [Telepresence](https://www.telepresence.io/): Local development against a remote Kubernetes
 - [Stern](https://github.com/wercker/stern): Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod. Each result is color coded for quicker debugging.
