@@ -9,6 +9,7 @@
 ## Ingress Controller
 - [Contour](https://github.com/heptio/contour): Contour is a Kubernetes ingress controller for Lyft's Envoy proxy.
 - [Kubemci](https://github.com/GoogleCloudPlatform/k8s-multicluster-ingress): kubemci is a tool to configure Kubernetes ingress to load balance traffic across multiple Kubernetes clusters.
+- [Ambassador](https://www.getambassador.io): Ambassador is a Kubernetes-native API gateway for microservices. Ambassador is deployed at the edge of your network, and routes incoming traffic to your internal services.
 
 ## Debugging
 - [Telepresence](https://www.telepresence.io/): Local development against a remote Kubernetes
