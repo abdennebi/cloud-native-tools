@@ -16,6 +16,8 @@
 ## Debugging
 - [Telepresence](https://www.telepresence.io/): Local development against a remote Kubernetes
 - [Stern](https://github.com/wercker/stern): Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod. Each result is color coded for quicker debugging.
+- [Ksync](https://github.com/vapor-ware/ksync): 
+ksync speeds up developers who build applications for Kubernetes. It transparently updates containers running on the cluster from your local checkout. 
 
 ## Security
 - [Kubesec](https://kubesec.io/)
