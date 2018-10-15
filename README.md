@@ -28,3 +28,6 @@ ksync speeds up developers who build applications for Kubernetes. It transparent
 ## Distributions
 - [Typhoon](https://github.com/poseidon/typhoon): Minimal and free Kubernetes distribution 
 
+## Extensions
+- [kubernetes-ldap](https://github.com/apprenda-kismatic/kubernetes-ldap): ightweight Directory Access Protocol (LDAP) for Kubernetes
+
