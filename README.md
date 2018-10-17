@@ -32,3 +32,5 @@ ksync speeds up developers who build applications for Kubernetes. It transparent
 ## Extensions
 - [kubernetes-ldap](https://github.com/apprenda-kismatic/kubernetes-ldap): ightweight Directory Access Protocol (LDAP) for Kubernetes
 
+### GKE
+- [kubernetes-rbac-synchroniser](https://github.com/google-cloud-tools/kubernetes-rbac-synchroniser): RBAC Synchroniser pulls a Google Group, extracts Google Group Member Emails and updates the Kubernetes RoleBinding in the given namespace.
