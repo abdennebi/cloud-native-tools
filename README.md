@@ -7,6 +7,7 @@
 - [Skaffold](https://github.com/GoogleContainerTools/skaffold): Easy and Repeatable Kubernetes Development
 - [kube-shell](https://github.com/cloudnativelabs/kube-shell): An integrated shell for working with the Kubernetes
 - [Copper](https://github.com/cloud66-oss/copper): Copper is a configuration validator for Kubernetes
+- [kubefwd](https://github.com/txn2/kubefwd): Bulk port forwarding Kubernetes services for local development.
 ## Package Manager
 - [Helm](https://github.com/helm/helm): Helm is a tool that streamlines installing and managing Kubernetes applications. Think of it like apt/yum/homebrew for Kubernetes.
 
