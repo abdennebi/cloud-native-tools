@@ -26,6 +26,9 @@ ksync speeds up developers who build applications for Kubernetes. It transparent
 - [Kube-bench](https://github.com/aquasecurity/kube-bench): The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices
 - [Cert-manager](https://github.com/jetstack/cert-manager/): Automatically provision and manage TLS certificates in Kubernetes
 
+## Chaos Engineering
+-[kube-monkey](https://github.com/asobti/kube-monkey): An implementation of Netflix's Chaos Monkey for Kubernetes clusters
+
 ## Distributions
 - [Typhoon](https://github.com/poseidon/typhoon): Minimal and free Kubernetes distribution 
 
