@@ -8,6 +8,10 @@
 - [kube-shell](https://github.com/cloudnativelabs/kube-shell): An integrated shell for working with the Kubernetes
 - [Copper](https://github.com/cloud66-oss/copper): Copper is a configuration validator for Kubernetes
 - [kubefwd](https://github.com/txn2/kubefwd): Bulk port forwarding Kubernetes services for local development.
+
+## Dashboard
+- [Kubebox](https://github.com/astefanutti/kubebox): Terminal and Web console for Kubernetes 
+
 ## Package Manager
 - [Helm](https://github.com/helm/helm): Helm is a tool that streamlines installing and managing Kubernetes applications. Think of it like apt/yum/homebrew for Kubernetes.
 
@@ -29,7 +33,7 @@ ksync speeds up developers who build applications for Kubernetes. It transparent
 - [Cert-manager](https://github.com/jetstack/cert-manager/): Automatically provision and manage TLS certificates in Kubernetes
 
 ## Chaos Engineering
--[kube-monkey](https://github.com/asobti/kube-monkey): An implementation of Netflix's Chaos Monkey for Kubernetes clusters
+- [kube-monkey](https://github.com/asobti/kube-monkey): An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 
 ## Distributions
 - [Typhoon](https://github.com/poseidon/typhoon): Minimal and free Kubernetes distribution 
