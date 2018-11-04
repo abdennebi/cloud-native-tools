@@ -9,7 +9,8 @@
 - [Copper](https://github.com/cloud66-oss/copper): Copper is a configuration validator for Kubernetes
 - [kubefwd](https://github.com/txn2/kubefwd): Bulk port forwarding Kubernetes services for local development.
 
-## Dashboard
+## Visualization
+- [Weave Scope](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes 
 - [Kubebox](https://github.com/astefanutti/kubebox): Terminal and Web console for Kubernetes 
 
 ## Package Manager
