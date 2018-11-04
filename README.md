@@ -8,6 +8,7 @@
 - [kube-shell](https://github.com/cloudnativelabs/kube-shell): An integrated shell for working with the Kubernetes
 - [Copper](https://github.com/cloud66-oss/copper): Copper is a configuration validator for Kubernetes
 - [kubefwd](https://github.com/txn2/kubefwd): Bulk port forwarding Kubernetes services for local development.
+- [kubernetes-deploy](https://github.com/Shopify/kubernetes-deploy): A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 
 ## Visualization
 - [Weave Scope](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes 
