@@ -10,6 +10,10 @@
 - [kubefwd](https://github.com/txn2/kubefwd): Bulk port forwarding Kubernetes services for local development.
 - [kubernetes-deploy](https://github.com/Shopify/kubernetes-deploy): A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 
+## Ops
+- [Gravity](https://github.com/gravitational/gravity): Gravity is an open source tooklit for creating "snapshots" of Kubernetes clusters and the applications running inside the clusters. The resulting snapshots are called *application bundles*.
+
+
 ## Visualization
 - [Weave Scope](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes 
 - [Kubebox](https://github.com/astefanutti/kubebox): Terminal and Web console for Kubernetes 
