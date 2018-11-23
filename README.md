@@ -12,6 +12,7 @@
 
 ## Ops
 - [Gravity](https://github.com/gravitational/gravity): Gravity is an open source tooklit for creating "snapshots" of Kubernetes clusters and the applications running inside the clusters. The resulting snapshots are called *application bundles*.
+- [Machine Controller Manager](https://github.com/gardener/machine-controller-manager): Declarative way of managing machines for Kubernetes cluster
 
 
 ## Visualization
