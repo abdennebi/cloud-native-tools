@@ -7,3 +7,5 @@
 [Gimme](https://github.com/spotify/gimme): Creating time bound IAM Conditions with ease and flair
 
 [GCP Firewall Enforcer](https://github.com/spotify/gcp-firewall-enforcer): A toolbox to enforce firewall rules across multiple GCP projects.
+
+[GCP Audit](https://github.com/spotify/gcp-audit): A tool for auditing security properties of GCP projects.
