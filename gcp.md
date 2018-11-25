@@ -9,3 +9,5 @@
 [GCP Firewall Enforcer](https://github.com/spotify/gcp-firewall-enforcer): A toolbox to enforce firewall rules across multiple GCP projects.
 
 [GCP Audit](https://github.com/spotify/gcp-audit): A tool for auditing security properties of GCP projects.
+
+[InSpec GCP](https://github.com/inspec/inspec-gcp): InSpec is compliance as code. Turn your compliance, security, and other policy requirements into automated tests.
