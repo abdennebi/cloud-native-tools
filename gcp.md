@@ -5,3 +5,5 @@
 [Scout Suite](https://github.com/nccgroup/ScoutSuite): Multi-Cloud Security Auditing Tool
 
 [Gimme](https://github.com/spotify/gimme): Creating time bound IAM Conditions with ease and flair
+
+[GCP Firewall Enforcer](https://github.com/spotify/gcp-firewall-enforcer): A toolbox to enforce firewall rules across multiple GCP projects.
