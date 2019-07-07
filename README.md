@@ -37,7 +37,8 @@
 ksync speeds up developers who build applications for Kubernetes. It transparently updates containers running on the cluster from your local checkout. 
 
 ## Security
-- [Kubesec](https://kubesec.io/)
+- [Kubesec.io](https://kubesec.io/)
+- [kubesec](https://github.com/shyiko/kubesec): Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)
 - [Kube-hunter](https://github.com/aquasecurity/kube-hunter): Hunt for security weaknesses in Kubernetes clusters
 - [Kube-bench](https://github.com/aquasecurity/kube-bench): The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices
 - [Cert-manager](https://github.com/jetstack/cert-manager/): Automatically provision and manage TLS certificates in Kubernetes
