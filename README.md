@@ -43,6 +43,7 @@ ksync speeds up developers who build applications for Kubernetes. It transparent
 - [Kube-bench](https://github.com/aquasecurity/kube-bench): The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices
 - [Cert-manager](https://github.com/jetstack/cert-manager/): Automatically provision and manage TLS certificates in Kubernetes
 - [kubescape](https://github.com/armosec/kubescape): Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
+- [trivy](https://github.com/aquasecurity/trivy): Trivy is a comprehensive security scanner. It is reliable, fast, extremely easy to use, and it works wherever you need it.
 
 ## Chaos Engineering
 - [kube-monkey](https://github.com/asobti/kube-monkey): An implementation of Netflix's Chaos Monkey for Kubernetes clusters
