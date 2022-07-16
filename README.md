@@ -45,6 +45,7 @@ ksync speeds up developers who build applications for Kubernetes. It transparent
 - [kubescape](https://github.com/armosec/kubescape): Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
 - [trivy](https://github.com/aquasecurity/trivy): Trivy is a comprehensive security scanner. It is reliable, fast, extremely easy to use, and it works wherever you need it.
 - [kubeaudit](https://github.com/Shopify/kubeaudit): kubeaudit is a tool to audit Kubernetes clusters for various different security concerns, such as: run as non-root, use a read-only root filesystem, drop scary capabilities, don't add new ones, don't run privileged and more!
+- [Container Structure Tests](https://github.com/GoogleContainerTools/container-structure-test) : The Container Structure Tests provide a powerful framework to validate the structure of a container image. These tests can be used to check the output of commands in an image, as well as verify metadata and contents of the filesystem.
 
 ## Chaos Engineering
 - [kube-monkey](https://github.com/asobti/kube-monkey): An implementation of Netflix's Chaos Monkey for Kubernetes clusters
