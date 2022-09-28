@@ -37,6 +37,7 @@
 ksync speeds up developers who build applications for Kubernetes. It transparently updates containers running on the cluster from your local checkout. 
 
 ## Security
+- [grype](https://github.com/anchore/grype): A vulnerability scanner for container images and filesystems. Works with [Syft](https://github.com/anchore/syft), the powerful SBOM (software bill of materials) tool for container images and filesystems.
 - [Kubesec.io](https://kubesec.io/)
 - [kubesec](https://github.com/shyiko/kubesec): Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)
 - [Kube-hunter](https://github.com/aquasecurity/kube-hunter): Hunt for security weaknesses in Kubernetes clusters
