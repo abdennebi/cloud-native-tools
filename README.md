@@ -39,6 +39,7 @@ ksync speeds up developers who build applications for Kubernetes. It transparent
 ## Security
 - [connaisseur](https://github.com/sse-secure-systems/connaisseur): A Kubernetes admission controller to integrate container image signature verification and trust pinning into a cluster.
 - [grype](https://github.com/anchore/grype): A vulnerability scanner for container images and filesystems. Works with [Syft](https://github.com/anchore/syft), the powerful SBOM (software bill of materials) tool for container images and filesystems.
+- [kubeclarity](https://github.com/openclarity/kubeclarity): KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems. It scans both runtime K8s clusters and CI/CD pipelines for enhanced software supply chain security.
 - [Kubesec.io](https://kubesec.io/)
 - [kubesec](https://github.com/shyiko/kubesec): Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)
 - [Kube-hunter](https://github.com/aquasecurity/kube-hunter): Hunt for security weaknesses in Kubernetes clusters
