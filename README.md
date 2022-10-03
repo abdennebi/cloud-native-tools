@@ -1,6 +1,7 @@
 # Kubernetes Tools
 
 ## Developer Tools
+- [crane](https://github.com/google/go-containerregistry/tree/main/cmd/crane): a tool for interacting with remote images and registries.
 - [crossplane](https://github.com/crossplane/crossplane): Crossplane is a framework for building cloud native control planes without needing to write code. It has a highly extensible backend that enables you to build a control plane that can orchestrate applications and infrastructure no matter where they run, and a highly configurable frontend that puts you in control of the schema of the declarative API it offers.
 - [Draft](https://github.com/Azure/draft): Draft makes it easy to build applications that run on Kubernetes. Draft targets the "inner loop" of a developer's workflow: as they hack on code, but before code is committed to version control.
 - [Kubectx](https://github.com/ahmetb/kubectx): Fast way to switch between clusters and namespaces in kubectl 
