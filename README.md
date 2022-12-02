@@ -31,7 +31,8 @@
 - [Ambassador](https://www.getambassador.io): Ambassador is a Kubernetes-native API gateway for microservices. Ambassador is deployed at the edge of your network, and routes incoming traffic to your internal services.
 
 ## Monitoring
-[Kubewatch](https://github.com/robusta-dev/kubewatch): Watch k8s events and trigger Handlers.
+- [Kubewatch](https://github.com/robusta-dev/kubewatch): Watch k8s events and trigger Handlers.
+- [Kubeshark](https://github.com/kubeshark/kubeshark): Kubeshark, the API Traffic Viewer for kubernetes, provides deep visibility and monitoring of all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think of a combination of Chrome Dev Tools, TCPDump and Wireshark, re-invented for Kubernetes.
 
 
 ## Debugging
