@@ -31,7 +31,8 @@
 - [Ambassador](https://www.getambassador.io): Ambassador is a Kubernetes-native API gateway for microservices. Ambassador is deployed at the edge of your network, and routes incoming traffic to your internal services.
 
 ## Monitoring
-[Kubewatch](https://github.com/bitnami-labs/kubewatch): Watch k8s events and trigger Handlers.
+[Kubewatch](https://github.com/robusta-dev/kubewatch): Watch k8s events and trigger Handlers.
+
 
 ## Debugging
 - [Telepresence](https://www.telepresence.io/): Local development against a remote Kubernetes
