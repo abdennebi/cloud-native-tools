@@ -30,7 +30,8 @@
 - [Kubemci](https://github.com/GoogleCloudPlatform/k8s-multicluster-ingress): kubemci is a tool to configure Kubernetes ingress to load balance traffic across multiple Kubernetes clusters.
 - [Ambassador](https://www.getambassador.io): Ambassador is a Kubernetes-native API gateway for microservices. Ambassador is deployed at the edge of your network, and routes incoming traffic to your internal services.
 
-## Monitoring
+## Monitoring & Observality
+- [Hubble](https://github.com/cilium/hubble): Hubble is a fully distributed networking and security observability platform for cloud native workloads. It is built on top of Cilium and eBPF to enable deep visibility into the communication and behavior of services as well as the networking infrastructure in a completely transparent manner.
 - [Kubewatch](https://github.com/robusta-dev/kubewatch): Watch k8s events and trigger Handlers.
 - [Kubeshark](https://github.com/kubeshark/kubeshark): Kubeshark, the API Traffic Viewer for kubernetes, provides deep visibility and monitoring of all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think of a combination of Chrome Dev Tools, TCPDump and Wireshark, re-invented for Kubernetes.
 
