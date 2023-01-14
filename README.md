@@ -59,6 +59,7 @@ ksync speeds up developers who build applications for Kubernetes. It transparent
 - [kubeaudit](https://github.com/Shopify/kubeaudit): kubeaudit is a tool to audit Kubernetes clusters for various different security concerns, such as: run as non-root, use a read-only root filesystem, drop scary capabilities, don't add new ones, don't run privileged and more!
 - [Container Structure Tests](https://github.com/GoogleContainerTools/container-structure-test) : The Container Structure Tests provide a powerful framework to validate the structure of a container image. These tests can be used to check the output of commands in an image, as well as verify metadata and contents of the filesystem.
 - [Tetragon](https://github.com/cilium/tetragon): Cilium’s new Tetragon component enables powerful realtime, eBPF-based Security Observability and Runtime Enforcement.
+- [ThreatMapper](https://github.com/deepfence/ThreatMapper): Deepfence ThreatMapper hunts for threats in your production platforms, and ranks these threats based on their risk-of-exploit. It uncovers vulnerable software components, exposed secrets and deviations from good security practice. ThreatMapper uses a combination of agent-based inspection and agent-less monitoring to provide the widest possible coverage to detect threats.
 
 ## Chaos Engineering
 - [kube-monkey](https://github.com/asobti/kube-monkey): An implementation of Netflix's Chaos Monkey for Kubernetes clusters
