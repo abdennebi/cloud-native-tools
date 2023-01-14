@@ -44,6 +44,7 @@ ksync speeds up developers who build applications for Kubernetes. It transparent
 
 ## Security
 - [connaisseur](https://github.com/sse-secure-systems/connaisseur): A Kubernetes admission controller to integrate container image signature verification and trust pinning into a cluster.
+- [SecretScanner](https://github.com/deepfence/SecretScanner): Deepfence SecretScanner can find unprotected secrets in container images or file systems
 - [grype](https://github.com/anchore/grype): A vulnerability scanner for container images and filesystems. Works with [Syft](https://github.com/anchore/syft), the powerful SBOM (software bill of materials) tool for container images and filesystems.
 - [falco](https://github.com/falcosecurity/falco): Falco can detect and alert on any behavior that involves making Linux system calls. Falco alerts can be triggered by the use of specific system calls, their arguments, and by properties of the calling process.
 - [kubeclarity](https://github.com/openclarity/kubeclarity): KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems. It scans both runtime K8s clusters and CI/CD pipelines for enhanced software supply chain security.
