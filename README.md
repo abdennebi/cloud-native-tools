@@ -61,6 +61,9 @@ ksync speeds up developers who build applications for Kubernetes. It transparent
 - [Tetragon](https://github.com/cilium/tetragon): Cilium’s new Tetragon component enables powerful realtime, eBPF-based Security Observability and Runtime Enforcement.
 - [ThreatMapper](https://github.com/deepfence/ThreatMapper): Deepfence ThreatMapper hunts for threats in your production platforms, and ranks these threats based on their risk-of-exploit. It uncovers vulnerable software components, exposed secrets and deviations from good security practice. ThreatMapper uses a combination of agent-based inspection and agent-less monitoring to provide the widest possible coverage to detect threats.
 
+## Software Supply Chain Security 
+- [Chain-bench](https://github.com/aquasecurity/chain-bench): Chain-bench is an open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark. 
+
 ## Chaos Engineering
 - [kube-monkey](https://github.com/asobti/kube-monkey): An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 
