@@ -63,6 +63,7 @@ ksync speeds up developers who build applications for Kubernetes. It transparent
 
 ## Software Supply Chain Security 
 - [Chain-bench](https://github.com/aquasecurity/chain-bench): Chain-bench is an open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark. 
+- [Kubeclarity](https://github.com/openclarity/kubeclarity): KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems. It scans both runtime K8s clusters and CI/CD pipelines for enhanced software supply chain security.
 
 ## Chaos Engineering
 - [kube-monkey](https://github.com/asobti/kube-monkey): An implementation of Netflix's Chaos Monkey for Kubernetes clusters
