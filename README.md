@@ -12,6 +12,7 @@
 - [Copper](https://github.com/cloud66-oss/copper): Copper is a configuration validator for Kubernetes
 - [kubefwd](https://github.com/txn2/kubefwd): Bulk port forwarding Kubernetes services for local development.
 - [kubernetes-deploy](https://github.com/Shopify/kubernetes-deploy): A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
+- [ORAS](https://oras.land/): Registries are evolving as generic artifact stores. To enable this goal, the ORAS project provides a way to push and pull OCI Artifacts to and from OCI Registries.
 
 ## Ops
 - [Gravity](https://github.com/gravitational/gravity): Gravity is an open source tooklit for creating "snapshots" of Kubernetes clusters and the applications running inside the clusters. The resulting snapshots are called *application bundles*.
