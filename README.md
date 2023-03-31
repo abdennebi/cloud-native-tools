@@ -16,6 +16,7 @@
 
 ## Containers
 
+- [jib](https://github.com/GoogleContainerTools/jib): Jib builds optimized Docker and OCI images for your Java applications without a Docker daemon - and without deep mastery of Docker best-practices. It is available as plugins for Maven and Gradle and as a Java library.
 - [skopeo](https://github.com/containers/skopeo): Skopeo is a tool for manipulating, inspecting, signing, and transferring container images and image repositories on Linux systems, Windows and MacOS. Skopeo does not require running a container daemon.
 
 ## Ops
