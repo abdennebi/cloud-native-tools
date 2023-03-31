@@ -14,6 +14,10 @@
 - [kubernetes-deploy](https://github.com/Shopify/kubernetes-deploy): A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 - [ORAS](https://oras.land/): Registries are evolving as generic artifact stores. To enable this goal, the ORAS project provides a way to push and pull OCI Artifacts to and from OCI Registries.
 
+## Containers
+
+- [skopeo](https://github.com/containers/skopeo): Skopeo is a tool for manipulating, inspecting, signing, and transferring container images and image repositories on Linux systems, Windows and MacOS. Skopeo does not require running a container daemon.
+
 ## Ops
 - [Gravity](https://github.com/gravitational/gravity): Gravity is an open source tooklit for creating "snapshots" of Kubernetes clusters and the applications running inside the clusters. The resulting snapshots are called *application bundles*.
 - [Machine Controller Manager](https://github.com/gardener/machine-controller-manager): Declarative way of managing machines for Kubernetes cluster
